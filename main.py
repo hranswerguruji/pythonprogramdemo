@@ -1,5 +1,5 @@
-import FunctionDemo
 import CalculatorFunction
+import PersonClass
 import UserInputFunction
 
 # FunctionDemo.first_demo()
@@ -16,3 +16,11 @@ print(f"The division of 2 number is {div}")
 
 # User input function demo calling
 UserInputFunction.get_user_detail()
+
+# Class demo calling
+# Creating an Object
+person1 = PersonClass.Person("Santosh Kumar Singh", 22)
+# Accessing attributes
+print(person1.name)  # Output: Santosh Kumar Singh
+print(person1.age)  # Output: 22
+person1.greet()

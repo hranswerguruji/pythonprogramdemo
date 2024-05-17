@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3e8f0-b221-47a8-9da3-1f63c8cece71" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CalculatorFunction.py" afterDir="false" />
+    <list default="true" id="28a3e8f0-b221-47a8-9da3-1f63c8cece71" name="Changes" comment="Changes for:&#10;1. Added UserInputFunction.py file&#10;2. Calling get_user_detail() method in main.py">
+      <change afterPath="$PROJECT_DIR$/PersonClass.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,23 +17,23 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="python-program-function" />
+        <entry key="$PROJECT_DIR$" value="python-program-class-object" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "hranswerguruji"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;hranswerguruji&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/hranswerguruji/pythonprogramdemo",
-    "accountId": "c88542de-534f-403b-b23c-bb6bae32fd5a"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/hranswerguruji/pythonprogramdemo&quot;,
+    &quot;accountId&quot;: &quot;c88542de-534f-403b-b23c-bb6bae32fd5a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -45,9 +46,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.FunctionDemo.executor": "Run",
+    "Python.UserInputFunction.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "python-program-function"
+    "git-widget-placeholder": "python-program-class-object"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -66,6 +68,47 @@
       <option name="presentableId" value="Default" />
       <updated>1715828681824</updated>
     </task>
+    <task id="LOCAL-00001" summary="Added CalculatorFunction.py">
+      <option name="closed" value="true" />
+      <created>1715830187427</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715830187427</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Calling the add method in main.py">
+      <option name="closed" value="true" />
+      <created>1715830471763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715830471763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added mul and div functions in CalculatorFunction.py">
+      <option name="closed" value="true" />
+      <created>1715830555309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715830555310</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Calling sub, mul and div functions in main.py">
+      <option name="closed" value="true" />
+      <created>1715830771118</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715830771118</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Changes for:&#10;1. Added UserInputFunction.py file&#10;2. Calling get_user_detail() method in main.py">
+      <option name="closed" value="true" />
+      <created>1715917260203</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715917260204</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,5 +153,13 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added CalculatorFunction.py" />
+    <MESSAGE value="Calling the add method in main.py" />
+    <MESSAGE value="Added mul and div functions in CalculatorFunction.py" />
+    <MESSAGE value="Calling sub, mul and div functions in main.py" />
+    <MESSAGE value="Changes for:&#10;1. Added UserInputFunction.py file&#10;2. Calling get_user_detail() method in main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes for:&#10;1. Added UserInputFunction.py file&#10;2. Calling get_user_detail() method in main.py" />
   </component>
 </project>
