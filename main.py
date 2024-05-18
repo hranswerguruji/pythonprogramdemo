@@ -1,6 +1,8 @@
 import CalculatorFunction
 import PersonClass
 import UserInputFunction
+from Employee import Employee
+from EmployeeDetail import EmpDetail
 
 """
 # FunctionDemo.first_demo()
@@ -28,8 +30,9 @@ print(person1.age)  # Output: 22
 person1.greet()
 """
 
+"""
 from prettytable import PrettyTable
-from Employee import Employee
+
 
 table = PrettyTable()
 table.field_names = ["Name", "Email", "Age"]
@@ -38,8 +41,18 @@ table.add_row(["Om Sharma", "om@test.com", 20])
 table.align = "l"
 print(table)
 
+"""
+"""
 emp = Employee()
 emp.emp_id = 1001
 emp.name = "Santosh"
 emp.salary = 12300
 emp.employee_detail()
+"""
+empDetail = EmpDetail()
+empDetail.emp_id = 1002
+empDetail.name = "Pooja Gupta"
+empDetail.salary = 13400
+empDetail.department_name = "IT"
+empDetail.employee_detail()
+empDetail.department()

@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="28a3e8f0-b221-47a8-9da3-1f63c8cece71" name="Changes" comment="Changes for:&#10;Added prettytable code for tabular format data">
-      <change afterPath="$PROJECT_DIR$/Employee.py" afterDir="false" />
+    <list default="true" id="28a3e8f0-b221-47a8-9da3-1f63c8cece71" name="Changes" comment="Changes for:&#10;Added Employee class and calling in main.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Employee.py" beforeDir="false" afterPath="$PROJECT_DIR$/Employee.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716018094279</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Changes for:&#10;Added Employee class and calling in main.py">
+      <option name="closed" value="true" />
+      <created>1716024084515</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1716024084515</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +187,7 @@
     <MESSAGE value="Changes for:&#10;1. Added UserInputFunction.py file&#10;2. Calling get_user_detail() method in main.py" />
     <MESSAGE value="Changes for:&#10;1. Added PersonClass.py file&#10;2. Creating object of the class and calling method in main.py" />
     <MESSAGE value="Changes for:&#10;Added prettytable code for tabular format data" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes for:&#10;Added prettytable code for tabular format data" />
+    <MESSAGE value="Changes for:&#10;Added Employee class and calling in main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes for:&#10;Added Employee class and calling in main.py" />
   </component>
 </project>
