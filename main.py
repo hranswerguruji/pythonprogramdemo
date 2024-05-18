@@ -2,9 +2,11 @@ import CalculatorFunction
 import PersonClass
 import UserInputFunction
 
+"""
 # FunctionDemo.first_demo()
 
 # Calculator function calling
+
 add = CalculatorFunction.add(10, 5)
 print(f"The adding of 2 number is {add}")
 sub = CalculatorFunction.add(10, 5)
@@ -24,3 +26,20 @@ person1 = PersonClass.Person("Santosh Kumar Singh", 22)
 print(person1.name)  # Output: Santosh Kumar Singh
 print(person1.age)  # Output: 22
 person1.greet()
+"""
+
+from prettytable import PrettyTable
+from Employee import Employee
+
+table = PrettyTable()
+table.field_names = ["Name", "Email", "Age"]
+table.add_row(["Santosh Kumar Singh", "santosh3033@gmail.com", 12])
+table.add_row(["Om Sharma", "om@test.com", 20])
+table.align = "l"
+print(table)
+
+emp = Employee()
+emp.emp_id = 1001
+emp.name = "Santosh"
+emp.salary = 12300
+emp.employee_detail()
